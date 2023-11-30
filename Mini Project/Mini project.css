@@ -1,0 +1,243 @@
+.nav {
+
+    width: 1440px;
+    height: 98px;
+
+    background-color: #FFFFFF;
+    ;
+}
+
+
+ul  {
+   
+   display: flex; 
+   list-style: none;
+   justify-content: space-evenly;
+   width: 200px;
+  position: relative;
+  bottom: 50px;
+  left: 1500px;
+}
+
+
+img {
+
+position: relative;
+left:600px;
+
+}
+
+
+a {
+    text-decoration: none;
+    color: #00446A;
+    
+
+    
+}
+
+
+.button1 {
+    background: #00446A;
+    width: 152px;
+height: 42px;
+border: hidden;
+border-radius: 10px;
+color: white;
+
+
+    
+}
+
+.button2 {
+    width: 152px;
+height: 42px;
+border: solid 1px 
+#FF7233 ;
+border-radius: 10px;
+background-color: white;
+color:#FF7233 ;
+
+}
+
+
+
+.text {
+    position: relative;
+
+    left: 600px;
+    top: 150px;
+}
+
+.main-image {
+
+    width: 511px;
+    height: 514px;
+  position: relative;
+
+  left: 1350px;
+  bottom: 250px;
+
+}
+
+
+.card-h3 {
+    font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.card-p {
+    font-family: Inter;
+    font-weight: 300;
+    size: 12px;
+    line-height: 14,52px;
+    color: #232323;
+}
+
+
+.card-text {
+    position:relative;
+    bottom: 719px;
+    left:1765px;
+    background-color: white;
+    padding: px;
+    border-bottom-left-radius: 10px;
+    
+}
+
+
+.card12 {
+    
+position: absolute;
+right: 200px;
+
+width: 196px;
+height: 210px;
+background-color: white;
+
+border: hidden;
+border-radius: 10px;
+
+}
+
+body {
+    width: 1140px;
+}
+
+
+.mini-map {
+    position: relative;
+    left: 1250px;
+    bottom: 700px;
+    background-color: white;
+    padding: 10px;
+}
+
+.footer-h1 {
+    width: 323px;
+    height: 36px;
+    font: inter; 
+ font-weight: 600;
+ line-height: 36,31px;
+ text-align:center; 
+  color: #020829;
+  position: relative;
+  bottom: 100px;
+  left: 1000px;
+  
+}
+
+
+.footer-all-images {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+@media screen and (max-width: 800px) {
+
+}
+
+
+
+
+
+
+/*-------------------------next---------------------------*/
+
+
+
+
+#header-id {
+    width: 346px;
+    position: relative;
+height: 36px;
+top: 45px;
+left: 1000px;
+
+}
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+
+.header2-h1 {
+    position: relative;
+    width: 299px;
+height: 36px;
+left: 1000px;
+
+}
+
+.image12 {
+    position: relative;
+    left: 450px;
+}
+
+
+.header3-h1 {
+    width: 234px;
+height: 36px;
+position: relative;
+left:1000px ;
+color: #020829;
+
+
+}
+
+
+.image123  {
+    position: relative;
+    left:500px;
+}
+
+
+
+.footer-text {
+    position: absolute;
+    left: 515px;
+}
+
+.text-image {
+    position: relative;
+    left: 1200px;
+    bottom: 50px;
+    
+}
+
+
+.footer-3 {
+    position: relative;
+    right: 100px;
+}
